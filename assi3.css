@@ -1,0 +1,180 @@
+.main{
+    background-color: beige;
+    height: 1600px;
+    width: 1350px;
+}
+body{
+    margin: 0%;
+}
+
+
+
+.first{
+    height: 170px;
+    width: 400px;
+    border: 8px solid red;
+    border-radius: 10%;
+    text-align: center;
+    margin-left: 450px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    box-shadow: 5px 5px 2px 1px purple;
+    color:purple;
+    font-weight: 600;
+    text-shadow: 1px 3px 4px  purple;
+}
+.second{
+    height: 600px;
+    width: 1320px;
+    border: 8px solid green;
+    display: flex;
+    
+    
+   
+}
+.card1{
+    height: 250px;
+    width: 250px;
+    border: 7px solid red;
+    border-radius: 8px;
+    position: relative;
+    top: 0%;
+    bottom: 0%;
+   font-size: xx-large;
+    font-style: oblique;
+     font-weight: 600;
+    color: purple;
+    text-align: center;
+    box-shadow: 5px 5px 2px 1px purple;
+    text-shadow: 1px 3px 4px  purple;
+    
+    
+    
+    
+    
+}
+.card2{
+    height: 250px;
+    width: 250px;
+    border: 7px solid red;
+    border-radius: 8px;
+    position: relative;
+    top: 56%;
+    right: 20%;
+    font-size: xx-large;
+    font-style: italic;
+     font-weight: 600;
+    color: purple;
+    text-align: center;
+    box-shadow: 5px 5px 2px 1px purple;
+    text-shadow: 1px 3px 4px  purple;
+    
+    
+   
+}
+.card3{
+    height: 250px;
+    width: 250px;
+    border: 7px solid red;
+    border-radius: 8px;
+    position: relative;
+    top: 56%;
+    left:  40%;
+    font-style: italic;
+     font-weight: 600;
+    color: purple;
+    text-align: center;
+    box-shadow: 5px 5px 2px 1px purple;
+    text-shadow: 1px 3px 4px  purple;
+   
+}
+.card4{
+     height: 250px;
+    width: 250px;
+    border: 7px solid red;
+    border-radius: 8px;
+    position: relative;
+    left: 20%;
+    background-image:url(./th.jpeg);
+    box-shadow: 5px 5px 2px 1px purple;
+    text-shadow: 1px 3px 4px  purple;
+    
+    
+}
+.third{
+    height: 600px;
+    width: 650px;
+    border: 8px solid red;
+    margin-left: 345px;
+    margin-top: 20px;
+    background-color: coral;
+}
+.d1{
+    display: flex;
+    padding: 5px;
+    margin-right: 2px;
+    height: 250px;
+    
+}
+.d2{
+    padding: 5px;
+    background-color: aquamarine;
+    margin-left: 6px;
+    margin-right: 7px;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+.n{
+    background-color:yellow;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+.k{
+    background-color: chartreuse;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+
+.we{
+    margin-left: 160px;
+}
+/* .fv{
+    margin-left: 80px;
+
+} */
+/* .ot{
+    margin-left: 220px;
+
+} */
+.last{
+    height: 80px;
+    width: 500px;
+    border: 5px solid green;
+    margin-left: 400px;
+    background-color:lightgreen;
+    position:fixed;
+    bottom: -3px;
+    font-size: xx-large;
+    font-style: italic;
+    box-shadow: 5px 5px 2px 1px green;
+    text-shadow: 1px 3px 4px  purple;
+    border-radius: 5px;
+
+
+}
+.l{
+    margin-top: 5px;
+    font-size: large;
+    margin-left: 250px;
+}
